@@ -52,4 +52,3 @@ The option's names are `-t` and `--times`. More names are available for options 
 .. click:run::
 
     invoke(multi_echo, ['--times=3', 'index.txt'], prog_name='multi_echo')
-```
